@@ -1,0 +1,427 @@
+baseURL: https://example.com
+theme: LoveIt
+title: Programme d'immunologie..
+defaultContentLanguage : en
+languageCode: en
+languageName: English
+hasCJKLanguage: no
+paginate: 12
+googleAnalytics: ''
+copyright: ''
+enableRobotsTXT: yes
+enableGitInfo: yes
+enableEmoji: yes
+ignoreErrors:
+  - error-remote-getjson
+  - error-missing-instagram-accesstoken
+author:
+  email: ''
+  link: ''
+  name: ''
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      post: ''
+      pre: ''
+      title: ''
+      url: /posts/
+      weight: 1
+    - identifier: tags
+      name: tags
+      post: ''
+      pre: ''
+      title: ''
+      url: /tags/
+      weight: 2
+    - identifier: categories
+      name: categories
+      post: ''
+      pre: ''
+      title: ''
+      url: /categories/
+      weight: 3
+params:
+  analytics:
+    enable: yes
+    fathom:
+      id: ''
+      server: ''
+    google:
+      anonymizeIP: yes
+      id: ''
+    plausible:
+      dataDomain: ''
+    yandexMetrica:
+      id: ''
+  app:
+    iconColor: '#5bbad5'
+    noFavicon: yes
+    svgFavicon: ''
+    themeColor: '#ffffff'
+    tileColor: '#da532c'
+    title: 
+  cdn:
+    data: jsdelivr.yml
+  compatibility:
+    objectFit: no
+    polyfill: no
+  cookieconsent:
+    content:
+      dismiss: ''
+      link: ''
+      message: ''
+    enable: no
+  dateFormat: ''
+  defaultTheme: auto
+  description: 
+  fingerprint: ''
+  footer:
+    author: no
+    copyright: no
+    custom: 'Auteur : Dr.saad lamjadli'
+    enable: yes
+    hugo: no
+    icp: ''
+    license: no
+    since: 2023
+  gitRepo: 
+  header:
+    desktopMode: fixed
+    mobileMode: auto
+    title:
+      logo: 
+      name: Acceuil
+      post: 
+      pre: <i class="fa fa-bars"></i>
+      typeit: no
+  home:
+    posts:
+      enable: no
+      paginate: 6
+    profile:
+      avatarURL: /images/avatar.png
+      disclaimer: ''
+      enable: yes
+      gravatarEmail: ''
+      social: yes
+      subtitle: 
+      title: ''
+      typeit: yes
+    rss: 10
+  images: /logo.png
+  list:
+    dateFormat: 01-02
+    paginate: 20
+    rss: 10
+  page:
+    code:
+      copy: yes
+      maxShownLines: 50
+    comment:
+      commento:
+        enable: no
+      disqus:
+        enable: no
+        shortname: ''
+      enable: no
+      facebook:
+        appId: ''
+        enable: yes
+        languageCode: 'fr'
+        numPosts: 10
+        width: 100%
+      valine:
+        appId: QGzwQXOqs5JOhN4RGPOkR2mR-MdYXbMMI
+        appKey: WBmoGyJtbqUswvfLh6L8iEBr
+        avatar: mp
+        emoji: ''
+        enable: yes
+        enableQQ: no
+        highlight: yes
+        lang: ''
+        meta: ''
+        pageSize: 10
+        placeholder: ''
+        recordIP: yes
+        serverURLs: https://leancloud.hugoloveit.com
+        visitor: yes
+    fontawesome: yes
+    fraction: yes
+    hiddenFromHomePage: no
+    hiddenFromSearch: no
+    library:
+      css: {}
+      js: {}
+    lightgallery: no
+    linkToMarkdown: yes
+    mapbox:
+      accessToken: pk.eyJ1IjoiZGlsbG9uenEiLCJhIjoiY2s2czd2M2x3MDA0NjNmcGxmcjVrZmc2cyJ9.aSjv2BNuZUfARvxRYjSVZQ
+      darkStyle: mapbox://styles/mapbox/dark-v10?optimize=true
+      fullscreen: yes
+      geolocate: yes
+      lightStyle: mapbox://styles/mapbox/light-v10?optimize=true
+      navigation: yes
+      scale: yes
+    math:
+      blockLeftDelimiter: ''
+      blockRightDelimiter: ''
+      copyTex: yes
+      enable: no
+      inlineLeftDelimiter: ''
+      inlineRightDelimiter: ''
+      mhchem: yes
+    rssFullText: no
+    ruby: no
+    seo:
+      images: []
+      publisher:
+        logoUrl: /images/avatar.png
+        name: xxxx
+    share:
+      Baidu: no
+      Blogger: no
+      Buffer: no
+      Evernote: no
+      Facebook: no
+      Flipboard: no
+      HackerNews: no
+      Instapaper: no
+      Line: no
+      Linkedin: yes
+      Mix: no
+      Odnoklassniki: no
+      Pinterest: no
+      Pocket: no
+      Reddit: no
+      Skype: no
+      Trello: no
+      Tumblr: no
+      Twitter: no
+      VK: no
+      Weibo: no
+      Whatsapp: no
+      Xing: no
+      enable: yes
+    toc:
+      auto: yes
+      enable: yes
+      keepStatic: no
+    twemoji: no
+  search:
+    absoluteURL: no
+    algolia:
+      appID: ''
+      index: ''
+      searchKey: ''
+    contentLength: 4000
+    enable: no
+    highlightTag: em
+    maxResultLength: 10
+    placeholder: ''
+    snippetLength: 30
+    type: algolia
+  section:
+    dateFormat: 01-02
+    paginate: 20
+    rss: 10
+  seo:
+    image: /images/Apple-Devices-Preview.png
+    thumbnailUrl: /images/screenshot.png
+  social:
+    Angellist: ''
+    Bandcamp: ''
+    Behance: ''
+    Bilibili: ''
+    Bitbucket: ''
+    Codepen: ''
+    Deviantart: ''
+    Devto: ''
+    Discord: ''
+    DiscordInvite: ''
+    Douban: ''
+    Dribbble: ''
+    Email: ''
+    Facebook: ''
+    Fivehundredpx: ''
+    Flickr: ''
+    Foursquare: ''
+    FreeCodeCamp: ''
+    GitHub: ''
+    Gitea: ''
+    Gitlab: ''
+    Goodreads: ''
+    Googlescholar: ''
+    HackTheBox: ''
+    Hackernews: ''
+    Instagram: ''
+    Jsfiddle: ''
+    Kaggle: ''
+    Keybase: ''
+    Kickstarter: ''
+    Lastfm: ''
+    Lichess: ''
+    Linkedin: ''
+    Mastodon: ''
+    Matrix: ''
+    MediaWiki: ''
+    Medium: ''
+    Mix: ''
+    ORCID: ''
+    Odnoklassniki: ''
+    Patreon: ''
+    Paypal: ''
+    Pinterest: ''
+    Pleroma: ''
+    Plume: ''
+    Quora: ''
+    RSS: ''
+    Reddit: ''
+    Researchgate: ''
+    RootMe: ''
+    Skype: ''
+    Slidershare: ''
+    Snapchat: ''
+    Soundcloud: ''
+    Spotify: ''
+    Stackoverflow: ''
+    Steam: ''
+    Strava: ''
+    Telegram: ''
+    Thingiverse: ''
+    Tumblr: ''
+    Twitch: ''
+    Twitter: ''
+    VK: ''
+    Vine: ''
+    Weibo: ''
+    Whatsapp: ''
+    Wordpress: ''
+    XMPP: ''
+    Xing: ''
+    Youtubechannel: ''
+    Youtubecustom: ''
+    Youtubelegacy: ''
+    Zhihu: ''
+  title: LoveIt
+  typeit:
+    cursorChar: '|'
+    cursorSpeed: 1000
+    duration: -1
+    speed: 100
+  verification:
+    baidu: ''
+    bing: ''
+    google: ''
+    pinterest: ''
+    yandex: ''
+markup:
+  goldmark:
+    extensions:
+      definitionList: yes
+      footnote: no
+      linkify: yes
+      strikethrough: yes
+      table: yes
+      taskList: yes
+      typographer: yes
+    renderer:
+      unsafe: no
+  highlight:
+    codeFences: yes
+    guessSyntax: yes
+    lineNos: yes
+    lineNumbersInTable: yes
+    noClasses: no
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
+sitemap:
+  changefreq: weekly
+  filename: sitemap.xml
+  priority: 0.5
+Permalinks:
+  posts: :filename
+privacy:
+  googleAnalytics: {}
+  twitter:
+    enableDNT: no
+  youtube:
+    privacyEnhanced: yes
+mediaTypes:
+  text/plain:
+    suffixes: md
+outputFormats:
+  MarkDown:
+    isHTML: no
+    isPlainText: yes
+    mediaType: text/plain
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+  page:
+    - HTML
+    - MarkDown
+  section:
+    - HTML
+    - RSS
+  taxonomy:
+    - HTML
+    - RSS
+  taxonomyTerm: HTML
+languages:
+  en:
+    copyright: 
+    hasCJKLanguage: no
+    languageCode: en
+    languageName: English
+    menu:
+      main:
+        - identifier: posts
+          name: Liste des Cours
+          post: ''
+          pre: ''
+          title: ''
+          url: /posts/
+          weight: 1
+        - identifier: tags
+          name: Cours par Catégories
+          post: ''
+          pre: ''
+          title: ''
+          url: /tags/
+          weight: 2
+        - identifier: about
+          name: A propos
+          post: ''
+          pre: ''
+          title: ''
+          url: /about/
+          weight: 5
+        - identifier: github
+          name: ''
+          post: ''
+         # pre: <i class='fab fa-github fa-fw' aria-hidden='true'></i>
+          title: GitHub
+          url: https://github.com/dillonzq/LoveIt
+          weight: 6
+    params:
+      home:
+        profile:
+          avatarURL: /images/IG.png
+          disclaimer: ''
+          enable: yes
+          gravatarEmail: ''
+          social: yes
+          subtitle: Programme de formation des résidents en immunologie
+          title: 
+          typeit: yes
+        rss: 10
+      social:
+        Email: saad.lamjadli@edu.uca.ma
+        Facebook: saad.lamjadli.7/
+        GitHub: saadlamjadli/cours
+        RSS: no
+    weight: 1

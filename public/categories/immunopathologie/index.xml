@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>IMMUNOPATHOLOGIE - Category - Programme d&#39;immunologie</title>
+        <link>https://example.com/categories/immunopathologie/</link>
+        <description>IMMUNOPATHOLOGIE - Category - Programme d&#39;immunologie</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 28 Sep 2023 11:29:41 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/immunopathologie/" rel="self" type="application/rss+xml" /><item>
+    <title>Les vascularites à ANCA</title>
+    <link>https://example.com/basic-markdown-syntax/</link>
+    <pubDate>Thu, 28 Sep 2023 11:29:41 &#43;0800</pubDate>
+    <author>Saad</author>
+    <guid>https://example.com/basic-markdown-syntax/</guid>
+    <description><![CDATA[Introduction Les vascularites primitives sont un groupe de maladies systémiques caractérisées par l’inflammation et/ou la nécrose de la paroi des vaisseaux Souvent systémiques (parfois localisé), pouvant mettre en jeu le pronostic fonctionnel et vital ANCA sont des autoanticorps dirigés contre des constituants antigéniques présents dans les granules des PNN et dans les lysosomes des monocytes Ce sont de bons marqueurs sérologiques des vascularites systémiques nécrosantes primitives, notamment de la granulomatose de Wegener et de la micropolyangéite quand les cibles auto-antigéniques sont respectivement la PR3 ou la MPO La positivité des ANCA et l’identification de leur cible est une aide précieuse au diagnostic des vascularites La recherche des ANCA est le plus souvent effectuée pour confirmer ou non le diagnostic de vascularite nécrosante primitive, mais elle peut également permettre le suivi sous traitement (au moins pour la maladie de Wegener) Comme pour tous les autoanticorps, l’examen de première intention est IFI La deuxième étape obligatoire est la caractérisation de la cible reconnue par un test en phase solide : Elisa, immunodot, immuno-empreinte un test fluorométrique ou multiplexe Ces autoanticorps auraient un rôle direct dans la pathogénie de ces maladies en activant les polynucléaires et les monocytes dans les vaisseaux, ce qui aboutirait aux lésions anatomiques, infiltrat inflammatoire et nécrose, qui définissent les vascularites nécrosantes Intérêt de la question [x] La gravité et la fréquence des ANCA]]></description>
+</item>
+</channel>
+</rss>

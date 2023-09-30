@@ -1,0 +1,39 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Programme d&#39;immunologie</title>
+        <link>https://example.com/categories/</link>
+        <description>Categories - Category - Programme d&#39;immunologie</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 28 Sep 2023 11:29:41 &#43;0800</lastBuildDate><atom:link href="https://example.com/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>IMMUNOPATHOLOGIE</title>
+    <link>https://example.com/categories/immunopathologie/</link>
+    <pubDate>Thu, 28 Sep 2023 11:29:41 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/categories/immunopathologie/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>R</title>
+    <link>https://example.com/categories/r/</link>
+    <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/categories/r/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Markdown</title>
+    <link>https://example.com/categories/markdown/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/categories/markdown/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Documentation</title>
+    <link>https://example.com/categories/documentation/</link>
+    <pubDate>Mon, 01 Jan 0001 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://example.com/categories/documentation/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
