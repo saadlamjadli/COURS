@@ -380,5 +380,5 @@ Le diagnostic de VAA est difficile car ces maladies sont rares, et leur présent
 > * Néanmoins, la réapparition des ANCA ou l’ascension de leur titre ne justifiant pas une modification thérapeutique **:(fas fa-arrow-right):** elles n’ont que valeur d’alarme pour intensifier la surveillance clinique 
 ## Lien de Téléchargement du cours
 {{< admonition success "Télécharger" true >}}
-[**Ici**](https://mega.nz/file/XMUwmaiL#Ai_1xq-u3UKJpbGuq7xwyvyW-wQ1MFT_Ktrwo3bNtug)
+[**ici**](https://mega.nz/file/XMUwmaiL#Ai_1xq-u3UKJpbGuq7xwyvyW-wQ1MFT_Ktrwo3bNtug)
 {{< /admonition >}}
