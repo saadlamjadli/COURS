@@ -39,7 +39,7 @@ graph LR;
     A[Blog] -->B(Liste des cours par date de publication)
     A --> C(Cours par catégories)
     C --> E(Programme de formation des résidents)
-    C --> F(QCM d'examen d'apptitude profesionnelle)
+    C --> F(QCM d'examen d'apptitude profesionnelle + documents utiles)
     A --> |A LIRE EN PREMIER| D[A propos]
 {{< /mermaid >}}
 

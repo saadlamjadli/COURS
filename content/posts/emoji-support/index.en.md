@@ -210,3 +210,8 @@ On complète le test par un quantiféron et par étude histologique (biopsie) : 
 > * DIP est sous diagnostiqué **:(fas fa-arrow-right):** élimination de cause secondaire en 1 er lieu VIH…
 > * Exploration accessible 
 > * Collaboration clinicien-biologiste.
+
+## Lien de Téléchargement du cours
+{{< admonition success "Télécharger" true >}}
+[**Obtenir le cours**](https://mega.nz/file/uZ0g0CrD#OK2fxwanVkF0n-S0x5dccPcOZecmQ7tLIpp5hFKDuZw)
+{{< /admonition >}}

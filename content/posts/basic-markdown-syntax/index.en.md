@@ -377,4 +377,8 @@ Le diagnostic de VAA est difficile car ces maladies sont rares, et leur présent
 > * La valeur diagnostique des ANCA dans certaines situations d’urgence vitale comme le syndrome pneumorénal justifie que la recherche d’ANCA, associée à celle des anticorps anti-MBG **:(fas fa-arrow-right):** pour mettre en route un traitement immunosuppresseur
 > * La biopsie, quoique invasive, reste indispensable, et elle peut même nécessiter d’être répétée en cas de résultat négatif 
 > * L’utilité du suivi sérologique des VAA pour diagnostiquer les rechutes est encore objet de débats, mais les Elisa de capture semblent donner les meilleurs résultats 
-> * Néanmoins, la réapparition des ANCA ou l’ascension de leur titre ne justifiant pas une modification thérapeutique elles n’ont que valeur d’alarme pour intensifier la surveillance clinique 
+> * Néanmoins, la réapparition des ANCA ou l’ascension de leur titre ne justifiant pas une modification thérapeutique **:(fas fa-arrow-right):** elles n’ont que valeur d’alarme pour intensifier la surveillance clinique 
+## Lien de Téléchargement du cours
+{{< admonition success "Télécharger" true >}}
+[**Obtenir le cours**](https://mega.nz/file/XMUwmaiL#Ai_1xq-u3UKJpbGuq7xwyvyW-wQ1MFT_Ktrwo3bNtug)
+{{< /admonition >}}
