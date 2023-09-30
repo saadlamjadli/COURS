@@ -1,7 +1,7 @@
 ---
 author: Saad
 categories:
-- IMMUNOPATHOLOGIE
+- Immunopathologie
 date: "2023-09-28T11:29:41+08:00"
 draft: false
 images: []
@@ -11,7 +11,7 @@ resources:
 - name: featured-image
   src: featured-image.png
 tags:
-- IMMUNOPATHOLOGIE
+- Immunopathologie
 title: Les vascularites à ANCA
 weight: 4
 ---
