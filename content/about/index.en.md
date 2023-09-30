@@ -14,9 +14,13 @@ title: A propos
 #### :(far fa-list-alt fa-fw): Introduction
 Ce blog a été créé dans le but de **faciliter l'intégration** des nouveaux **résidents en immunologie** en mettant à leur disposition les cours que j'ai rédigés. **J'ai rassemblé ces ressources pédagogiques de plusieurs source (ECN...)** pour **simplifier leur expérience d'apprentissage** et leur offrir un accès rapide et pratique à un **contenu organisé et instructif**.  
 
+**------------------------------------------------------------------------------------------------------------------------------------------**
+
 #### :(fas fa-rocket fa-fw): Notre mission :
 
 Notre mission est de **soutenir** votre **parcours** éducatif en mettant à votre **disposition** des **cours** bien **structurés**, des **guides** **complets**. Nous croyons fermement en **l'importance** de **partager** la **connaissance** et de créer un environnement d'apprentissage collaboratif et enrichissant.
+
+**------------------------------------------------------------------------------------------------------------------------------------------**
 
 #### :(fab fa-searchengin fa-fw): Ce que vous trouverez ici :
 :(fas fa-sitemap fa-fw): **Cours organisés**  : Nous avons soigneusement compilé et organisé les cours pour vous offrir une expérience d'apprentissage fluide et intuitive de plusieurs sources (ENC, ...)  
@@ -26,6 +30,21 @@ Notre mission est de **soutenir** votre **parcours** éducatif en mettant à vot
 :(fas fa-share-square fa-fw): **Mises à jour régulières**: Nous mettons constamment à jour et améliorons nos cours pour vous fournir des informations à jour et pertinentes.
 
 :(fa-solid fa-file-medical):  **Avancement de grade** : Ce blog contient aussi les **QCM d'apptitude professionnelle** avec des **documents très utiles pour reussir l'EAP**.
+
+**------------------------------------------------------------------------------------------------------------------------------------------**
+
+### Plan général du blog 
+{{< mermaid >}}
+graph LR;
+    A[Blog] -->B(Liste des cours par date de publication)
+    A --> C(Cours par catégories)
+    C --> E(Programme de formation des résidents)
+    C --> F(QCM d'examen d'apptitude profesionnelle)
+    A --> |A LIRE EN PREMIER| D[A propos]
+{{< /mermaid >}}
+
+**------------------------------------------------------------------------------------------------------------------------------------------**
+
 {{< admonition  quote "Enfin" true>}}
 **Nous espérons que vous trouverez ces ressources utiles dans votre parcours.**
 **Si vous avez des questions, des suggestions ou si vous souhaitez contribuer, n'hésitez pas à nous contacter saad.lamjadli@edu.uca.ma**.
