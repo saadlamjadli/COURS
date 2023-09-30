@@ -213,5 +213,5 @@ On complète le test par un quantiféron et par étude histologique (biopsie) : 
 
 ## Lien de Téléchargement du cours
 {{< admonition success "Télécharger" true >}}
-[**Obtenir le cours**](https://mega.nz/file/uZ0g0CrD#OK2fxwanVkF0n-S0x5dccPcOZecmQ7tLIpp5hFKDuZw)
+[**Ici**](https://mega.nz/file/uZ0g0CrD#OK2fxwanVkF0n-S0x5dccPcOZecmQ7tLIpp5hFKDuZw)
 {{< /admonition >}}

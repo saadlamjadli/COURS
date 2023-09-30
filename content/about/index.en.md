@@ -33,18 +33,6 @@ Notre mission est de **soutenir** votre **parcours** éducatif en mettant à vot
 
 **------------------------------------------------------------------------------------------------------------------------------------------**
 
-### Plan général du blog 
-{{< mermaid >}}
-graph LR;
-    A[Blog] -->B(Liste des cours par date de publication)
-    A --> C(Cours par catégories)
-    C --> E(Programme de formation des résidents)
-    C --> F(QCM d'examen d'apptitude profesionnelle + documents utiles)
-    A --> |A LIRE EN PREMIER| D[A propos]
-{{< /mermaid >}}
-
-**------------------------------------------------------------------------------------------------------------------------------------------**
-
 {{< admonition  quote "Enfin" true>}}
 **Nous espérons que vous trouverez ces ressources utiles dans votre parcours.**
 **Si vous avez des questions, des suggestions ou si vous souhaitez contribuer, n'hésitez pas à nous contacter saad.lamjadli@edu.uca.ma**.
