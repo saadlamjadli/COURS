@@ -25,7 +25,7 @@ weight: 5
 * Il est toujours membranaire et forme avec la molécule CD3 un complexe dont le premier élément (TCR) est chargé de reconnaître l’antigène et le second (CD3) de transmettre le signal à l’intérieur de la cellule.
 * Contrairement au BCR, TCR est incapable de reconnaître l’antigène à l’état natif. Une étape d’apprêtement ou de processing de l’antigène par une cellule présentatrice d’antigène (CPA) est nécessaire. 
 * Le TCR reconnaît le peptide antigénique avec les molécules du complexe majeur d’histocompatibilité (CMH) à la surface de la CPA : c’est la restriction au CMH.
-{{< admonition note "Intérêt de la question" >}}
+{{< admonition quote "Intérêt de la question" >}}
 [x] L'importance des cytokines dans la réponse immunitaire  
 [x] Perspecrives thérapeutique  
 [x] Exploration  accessible orienté par l’interrogatoire et par un examen clinique minutieux

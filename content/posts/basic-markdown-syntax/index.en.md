@@ -28,7 +28,7 @@ weight: 4
 * La deuxième étape obligatoire est la caractérisation de la cible reconnue par un test en phase solide : Elisa, immunodot, immuno-empreinte un test fluorométrique ou multiplexe
 * Ces autoanticorps auraient un rôle direct dans la pathogénie de ces maladies en activant les polynucléaires et les monocytes dans les vaisseaux, ce qui aboutirait aux lésions anatomiques, infiltrat inflammatoire et nécrose, qui définissent les vascularites nécrosantes
 
-{{< admonition note "Intérêt de la question" >}}
+{{< admonition quote "Intérêt de la question" >}}
 [x] La gravité et la fréquence des ANCA  
 [x] Engagement du pronostic vital et fonctionnel  
 [x] Exploration immunobiologique accessible orienté par l’interrogatoire et par un examen clinique minutieux

@@ -7,7 +7,7 @@ images:
 lightgallery: true
 math:
   enable: true
-title: A propos 
+title: A propos
 ---
 > ### Bienvenue sur Blog-Immunologie !
 
@@ -16,7 +16,7 @@ Ce blog a été créé dans le but de **faciliter l'intégration** des nouveaux 
 
 #### :(fas fa-rocket fa-fw): Notre mission :
 
-Notre mission est de **soutenir** votre **parcours** éducatif en mettant à votre **disposition** des **cours** bien **structurés**, des **guides** **complets** et des conseils avisés. Nous croyons fermement en **l'importance** de **partager** la **connaissance** et de créer un environnement d'apprentissage collaboratif et enrichissant.
+Notre mission est de **soutenir** votre **parcours** éducatif en mettant à votre **disposition** des **cours** bien **structurés**, des **guides** **complets**. Nous croyons fermement en **l'importance** de **partager** la **connaissance** et de créer un environnement d'apprentissage collaboratif et enrichissant.
 
 #### :(fab fa-searchengin fa-fw): Ce que vous trouverez ici :
 :(fas fa-sitemap fa-fw): **Cours organisés**  : Nous avons soigneusement compilé et organisé les cours pour vous offrir une expérience d'apprentissage fluide et intuitive de plusieurs sources (ENC, ...)  
@@ -26,7 +26,12 @@ Notre mission est de **soutenir** votre **parcours** éducatif en mettant à vot
 :(fas fa-share-square fa-fw): **Mises à jour régulières**: Nous mettons constamment à jour et améliorons nos cours pour vous fournir des informations à jour et pertinentes.
 
 :(fa-solid fa-file-medical):  **Avancement de grade** : Ce blog contient aussi les **QCM d'apptitude professionnelle** avec des **documents très utiles pour reussir l'EAP**.
+{{< admonition  quote "Enfin" true>}}
+**Nous espérons que vous trouverez ces ressources utiles dans votre parcours.**
+**Si vous avez des questions, des suggestions ou si vous souhaitez contribuer, n'hésitez pas à nous contacter saad.lamjadli@edu.uca.ma**.
+**Merci de faire partie de notre communauté d'apprentissage**
+{{< /admonition >}}
 
-> **Nous espérons que vous trouverez ces ressources utiles dans votre parcours.**
-> **Si vous avez des questions, des suggestions ou si vous souhaitez contribuer, n'hésitez pas à nous contacter saad.lamjadli@edu.uca.ma**.
-> **Merci de faire partie de notre communauté d'apprentissage**
+{{< admonition warning  "N.B" true>}}
+**Je tiens à souligner que les cours présentés ici sont le fruit de mon propre investissement personnel et de mes efforts soutenus.**
+{{< /admonition >}}

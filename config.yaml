@@ -415,7 +415,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: Programme de formation des résidents en immunologie
+          subtitle: Programme de formation des résidents en immunologie...Veuillez Lire d'abord la page "A propos"
           title: 
           typeit: yes
         rss: 10
