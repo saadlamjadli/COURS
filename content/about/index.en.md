@@ -36,7 +36,7 @@ Notre mission est de **soutenir** votre **parcours** éducatif en mettant à vot
 {{< admonition  quote "Enfin" true>}}
 **Nous espérons que vous trouverez ces ressources utiles dans votre parcours.**
 **Si vous avez des questions, des suggestions ou si vous souhaitez contribuer, n'hésitez pas à nous contacter saad.lamjadli@edu.uca.ma**.
-**Merci de faire partie de notre communauté d'apprentissage**
+**Merci de faire partie de notre communauté d'apprentissage.**
 {{< /admonition >}}
 
 {{< admonition warning  "N.B" true>}}
