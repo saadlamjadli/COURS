@@ -79,7 +79,7 @@ params:
   footer:
     author: no
     copyright: no
-    custom: 'Auteur : Dr.saad lamjadli'
+    custom: 'Auteur : Dr.Saad Lamjadli'
     enable: yes
     hugo: no
     icp: ''
@@ -415,7 +415,7 @@ languages:
           enable: yes
           gravatarEmail: ''
           social: yes
-          subtitle: Programme de formation des résidents en immunologie...Veuillez lire d'abord la page "A propos".
+          subtitle: Programme de formation des résidents en immunologie.
           title: 
           typeit: yes
         rss: 10

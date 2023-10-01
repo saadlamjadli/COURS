@@ -18,12 +18,12 @@ Ce blog a été créé dans le but de **faciliter l'intégration** des nouveaux 
 
 #### :(fas fa-rocket fa-fw): Notre mission :
 
-Notre mission est de **soutenir** votre **parcours** éducatif en mettant à votre **disposition** des **cours** bien **structurés**, des **guides** **complets**. Nous croyons fermement en **l'importance** de **partager** la **connaissance** et de créer un environnement d'apprentissage collaboratif et enrichissant.
+Notre mission est de **soutenir** votre **parcours** de résidanat en immunologie en mettant à votre **disposition** des **cours** bien **structurés** et **complets**. Nous croyons fermement en **l'importance** de **partager** la **connaissance** et de créer un environnement d'apprentissage collaboratif et enrichissant.
 
 **------------------------------------------------------------------------------------------------------------------------------------------**
 
 #### :(fab fa-searchengin fa-fw): Ce que vous trouverez ici :
-:(fas fa-sitemap fa-fw): **Cours organisés**  : Nous avons soigneusement compilé et organisé les cours pour vous offrir une expérience d'apprentissage fluide et intuitive de plusieurs sources (ENC, ...)  
+:(fas fa-sitemap fa-fw): **Cours organisés**  : Nous avons soigneusement compilé et organisé les cours pour vous offrir une expérience d'apprentissage fluide et intuitive de plusieurs sources (ECN, ...)  
 
 :(fas fa-layer-group fa-fw): **Sujets variés** : nous couvrons l'ensemble du programme de formation des résident en immunologie pour répondre à vos besoins éducatifs.
 
